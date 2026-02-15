@@ -38,7 +38,7 @@ export const climbers: Climber[] = [
     bio: "A rising star in the climbing community known for her infectious energy, creative content, and strong bouldering. She's brought a fresh, fun voice to climbing media while continuing to push her grades.",
     specialty: "Bouldering & Content Creation",
     notableAscent: "Inspiring a new generation of climbers online",
-    imageUrl: "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?w=600&q=80",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOSzHjIG7ahOPn9v7aWArwrHCZtIJUQAy5FaFzcvwQJ0baQxIwOcUAysA0OpZ3Rs8OynvWZzOLvi9JcX7xa4dcaAc0J461diztwOXFuA&s=10",
   },
   {
     name: "Tommy Caldwell",
