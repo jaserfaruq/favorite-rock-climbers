@@ -56,4 +56,28 @@ export const climbers: Climber[] = [
     notableAscent: "Century Crack (5.14b offwidth) - Canyonlands, Utah",
     imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Tom_Randall_CrackFest_2024_climbing.jpg/960px-Tom_Randall_CrackFest_2024_climbing.jpg",
   },
+  {
+    name: "Lynn Hill",
+    nickname: "The Nose Pioneer",
+    bio: "A true legend who revolutionized climbing in 1993 by making the first free ascent of The Nose on El Capitan — a feat many thought impossible. Her famous words, 'It goes, boys,' became one of climbing's most iconic moments.",
+    specialty: "Trad & Big Wall",
+    notableAscent: "The Nose Free (5.14a) - El Capitan, Yosemite",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Lynn_Hill_in_2012.jpg/800px-Lynn_Hill_in_2012.jpg",
+  },
+  {
+    name: "Chris Sharma",
+    nickname: "The King of Sendage",
+    bio: "A generational talent who pushed sport climbing into uncharted territory. Chris was the first to climb 5.15a (Realization) in 2001 and later shared the first 5.15b ascent (La Dura Dura) with Adam Ondra. He also pioneered deep water soloing as a discipline.",
+    specialty: "Sport Climbing & Deep Water Solo",
+    notableAscent: "Realization (5.15a) - Céüse, France",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chris_Sharma_2010.jpg/800px-Chris_Sharma_2010.jpg",
+  },
+  {
+    name: "Ashima Shiraishi",
+    nickname: "The Prodigy",
+    bio: "One of the most talented climbers to ever touch rock. Ashima became the youngest person to climb V15 at age 13 and 5.15a at age 14, shattering records and inspiring a new generation of young climbers worldwide.",
+    specialty: "Bouldering & Sport Climbing",
+    notableAscent: "Horizon (V15) - Mount Hiei, Japan (age 13)",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ashima_Shiraishi_2015_%28cropped%29.jpg/800px-Ashima_Shiraishi_2015_%28cropped%29.jpg",
+  },
 ];
