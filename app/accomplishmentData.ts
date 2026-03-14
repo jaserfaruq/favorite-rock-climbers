@@ -1,0 +1,173 @@
+export type Discipline = "Bouldering" | "Sport Climbing" | "Trad Climbing";
+
+export interface Accomplishment {
+  climberName: string;
+  discipline: Discipline;
+  route: string;
+  grade: string;
+  crag: string;
+  year: number;
+}
+
+export const accomplishments: Accomplishment[] = [
+  {
+    climberName: "Adam Ondra",
+    discipline: "Bouldering",
+    route: "Gioia",
+    grade: "V16 (8C+)",
+    crag: "Varazze, Italy",
+    year: 2011,
+  },
+  {
+    climberName: "Adam Ondra",
+    discipline: "Sport Climbing",
+    route: "Silence",
+    grade: "5.15d (9c)",
+    crag: "Flatanger, Norway",
+    year: 2017,
+  },
+  {
+    climberName: "Alex Honnold",
+    discipline: "Trad Climbing",
+    route: "Freerider (Free Solo)",
+    grade: "5.13a",
+    crag: "El Capitan, Yosemite",
+    year: 2017,
+  },
+  {
+    climberName: "Alex Honnold",
+    discipline: "Sport Climbing",
+    route: "Golden Gate",
+    grade: "5.13b",
+    crag: "El Capitan, Yosemite",
+    year: 2018,
+  },
+  {
+    climberName: "Emily Harrington",
+    discipline: "Sport Climbing",
+    route: "Golden Gate (free in a day)",
+    grade: "5.13",
+    crag: "El Capitan, Yosemite",
+    year: 2020,
+  },
+  {
+    climberName: "Emily Harrington",
+    discipline: "Trad Climbing",
+    route: "Scarface",
+    grade: "5.13a",
+    crag: "Yosemite",
+    year: 2015,
+  },
+  {
+    climberName: "Anna Hazelnutt",
+    discipline: "Bouldering",
+    route: "Various projects",
+    grade: "V9",
+    crag: "Various",
+    year: 2023,
+  },
+  {
+    climberName: "Tommy Caldwell",
+    discipline: "Trad Climbing",
+    route: "The Dawn Wall",
+    grade: "5.14d",
+    crag: "El Capitan, Yosemite",
+    year: 2015,
+  },
+  {
+    climberName: "Tommy Caldwell",
+    discipline: "Sport Climbing",
+    route: "Flex Luthor",
+    grade: "5.15a",
+    crag: "Rifle, Colorado",
+    year: 2003,
+  },
+  {
+    climberName: "Tom Randall",
+    discipline: "Trad Climbing",
+    route: "Century Crack",
+    grade: "5.14b (OW)",
+    crag: "Canyonlands, Utah",
+    year: 2011,
+  },
+  {
+    climberName: "Lynn Hill",
+    discipline: "Trad Climbing",
+    route: "The Nose (first free ascent)",
+    grade: "5.14a",
+    crag: "El Capitan, Yosemite",
+    year: 1993,
+  },
+  {
+    climberName: "Lynn Hill",
+    discipline: "Sport Climbing",
+    route: "Masse Critique",
+    grade: "5.14a (8b+)",
+    crag: "Cimai, France",
+    year: 1991,
+  },
+  {
+    climberName: "Chris Sharma",
+    discipline: "Sport Climbing",
+    route: "La Dura Dura",
+    grade: "5.15c (9b+)",
+    crag: "Oliana, Spain",
+    year: 2013,
+  },
+  {
+    climberName: "Chris Sharma",
+    discipline: "Bouldering",
+    route: "Witness the Fitness",
+    grade: "V15 (8C)",
+    crag: "Ozark Mountains, USA",
+    year: 2005,
+  },
+  {
+    climberName: "Ashima Shiraishi",
+    discipline: "Bouldering",
+    route: "Horizon",
+    grade: "V15 (8C)",
+    crag: "Mount Hiei, Japan",
+    year: 2016,
+  },
+  {
+    climberName: "Ashima Shiraishi",
+    discipline: "Sport Climbing",
+    route: "Open Your Mind Direct",
+    grade: "5.15a (9a+)",
+    crag: "Santa Linya, Spain",
+    year: 2017,
+  },
+  {
+    climberName: "Shawn Raboutou",
+    discipline: "Bouldering",
+    route: "Alphane",
+    grade: "V17 (9A)",
+    crag: "Chironico, Switzerland",
+    year: 2023,
+  },
+  {
+    climberName: "Shawn Raboutou",
+    discipline: "Sport Climbing",
+    route: "Bibliographie",
+    grade: "5.15c (9b+)",
+    crag: "Ceuse, France",
+    year: 2024,
+  },
+  {
+    climberName: "Hazel Findlay",
+    discipline: "Trad Climbing",
+    route: "Once Upon a Time in the Southwest",
+    grade: "E9 6c",
+    crag: "Dyer's Lookout, Devon",
+    year: 2012,
+  },
+  {
+    climberName: "Hazel Findlay",
+    discipline: "Sport Climbing",
+    route: "Mind Control",
+    grade: "5.14b (8c)",
+    crag: "Oliana, Spain",
+    year: 2020,
+  },
+];
