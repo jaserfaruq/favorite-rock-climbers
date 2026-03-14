@@ -80,4 +80,12 @@ export const climbers: Climber[] = [
     notableAscent: "Horizon (V15) - Mount Hiei, Japan (age 13)",
     imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Climbing_World_Championships_2018_Lead_Final_Shiraishi_%28BT0A2525%29-3.jpg/960px-Climbing_World_Championships_2018_Lead_Final_Shiraishi_%28BT0A2525%29-3.jpg",
   },
+  {
+    name: "Shawn Raboutou",
+    nickname: "The Boulder Prodigy",
+    bio: "Born into climbing royalty as the son of Didier Raboutou and Robyn Erbesfield-Raboutou, Shawn has established himself as one of the strongest boulderers in history. He became the first climber to send two different V17 boulder problems.",
+    specialty: "Bouldering",
+    notableAscent: "Alphane (V17) - Chironico, Switzerland",
+    imageUrl: "https://blackdiamondequipment.com/cdn/shop/articles/80e0188c-3bac-4cf3-a7d1-6c7b67486172_FINNSTACK061701-R1-096_a2809630-b14e-4e77-8fd4-4e214f2ae9b0.jpg?v=1742327189",
+  },
 ];
