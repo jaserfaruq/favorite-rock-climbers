@@ -94,6 +94,6 @@ export const climbers: Climber[] = [
     bio: "A British trad climbing pioneer known for her mental mastery and bold headpoints. Hazel was the first British woman to climb E9 and has pushed the boundaries of traditional climbing with a focus on the psychological side of the sport.",
     specialty: "Trad & Big Wall",
     notableAscent: "Once Upon a Time in the Southwest (E9 6c) - Dyer's Lookout, Devon",
-    imageUrl: "https://mcdn.podbean.com/mf/web/6argy5/HAZELFINDLAYPORTRAIT.jpg",
+    imageUrl: "https://www.hazel-findlay.com/add-photos/o83sxptiwdikyatbmogacumdi65dw4",
   },
 ];
