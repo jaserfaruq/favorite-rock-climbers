@@ -73,6 +73,14 @@ export const climbers: Climber[] = [
     imageUrl: "https://upload.wikimedia.org/wikipedia/commons/4/45/Chris_Sharma_%28USA%29.jpg",
   },
   {
+    name: "Janja Garnbret",
+    nickname: "The GOAT",
+    bio: "Widely regarded as the greatest competition climber of all time. Janja has won more World Cup titles than any climber in history, dominated all three disciplines (lead, bouldering, speed), and claimed Olympic gold in the combined event at the 2024 Paris Games.",
+    specialty: "Lead, Bouldering & Speed",
+    notableAscent: "Olympic Gold Medal - Paris 2024 & 8 World Championship titles",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Janja_Garnbret_2019.jpg/960px-Janja_Garnbret_2019.jpg",
+  },
+  {
     name: "Ashima Shiraishi",
     nickname: "The Prodigy",
     bio: "One of the most talented climbers to ever touch rock. Ashima became the youngest person to climb V15 at age 13 and 5.15a at age 14, shattering records and inspiring a new generation of young climbers worldwide.",

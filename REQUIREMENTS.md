@@ -46,7 +46,7 @@ Each card displays:
 | notableAscent  | string | Most famous route or achievement     |
 | imageUrl       | string | URL to a photo of the climber        |
 
-## Current Climbers (9)
+## Current Climbers (10)
 
 1. **Adam Ondra** — Sport Climbing & Bouldering — Silence (5.15d)
 2. **Alex Honnold** — Free Solo & Big Wall — Freerider Free Solo (5.13a)
@@ -56,7 +56,8 @@ Each card displays:
 6. **Tom Randall** — Crack & Offwidth Climbing — Century Crack (5.14b)
 7. **Lynn Hill** — Trad & Big Wall — First free ascent of The Nose on El Capitan (5.14a, 1993). Revolutionized climbing and proved big wall free climbing was possible.
 8. **Chris Sharma** — Sport Climbing & Deep Water Solo — First to climb 5.15a (Realization, 2001) and 5.15b (La Dura Dura, shared with Ondra). Pioneer of deep water soloing.
-9. **Ashima Shiraishi** — Bouldering & Sport Climbing — Became the youngest person to climb V15 at age 13 and 5.15a at age 14. One of the most talented climbers to ever touch rock.
+9. **Janja Garnbret** — Lead, Bouldering & Speed — Greatest competition climber of all time. Olympic gold medalist (Paris 2024) and 8x World Champion across all three disciplines.
+10. **Ashima Shiraishi** — Bouldering & Sport Climbing — Became the youngest person to climb V15 at age 13 and 5.15a at age 14. One of the most talented climbers to ever touch rock.
 
 ## Interactions
 
